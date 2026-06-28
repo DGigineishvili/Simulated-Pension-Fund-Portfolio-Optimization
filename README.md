@@ -69,8 +69,6 @@ The minimum return constraint was not binding in the baseline model, as the opti
 - Model code: Python implementation of the optimization model using Pyomo
 - Dataset files: Historical financial data used in the model
 - Report: Full project documentation and analysis
-- Data collection code: Scripts used to retrieve financial data
-- Supporting files: Additional tables and outputs used for the report
 
 ## Technologies Used
 
